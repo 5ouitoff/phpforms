@@ -15,5 +15,5 @@ Passport <?php echo $_POST["name1"]; ?><br>
 Your email address is: <?php echo $_POST["email"] ?>
 
 
-</body>
+</bod4>
 </html>
